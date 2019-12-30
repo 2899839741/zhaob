@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Zhao</string>
+    <string name="title_home">首页</string>
+    <string name="title_homes">生活</string>
+    <string name="title_dashboard">理财</string>
+    <string name="title_notifications">我的</string>
+    <string name="shanxi_nongxin_enjoy_life">山西农信|尽享生活</string>
+    <string name="the_credit_card">信用卡</string>
+    <string name="life_pay_cost">生活缴费</string>
+    <string name="social_security_service">社保服务</string>
+    <string name="pre_paid_phone">手机充值</string>
+    <string name="traffic_top_up">流量充值</string>
+    <string name="the_movie_tickets">电影票</string>
+    <string name="fixed_line_top_up">固话充值</string>
+    <string name="make_an_appointment">预约挂号</string>
+    <string name="traffic_fines">交通罚款</string>
+    <string name="mall">商城</string>
+    <string name="meituan_take_away">美团外卖</string>
+    <string name="a_key_card">一键绑卡</string>
+    <string name="more_and_more">更多></string>
+    <string name="financial_management_recommendations">理财推荐</string>
+    <string name="six_hundred_and_sixty_six">河津农商行 隆利丰第666期人民币理财产品</string>
+    <string name="reference_rate">参考收益率</string>
+    <string name="available_for_purchase_across_the_province">全省可购买</string>
+    <string name="the_capital_preservation">非保本</string>
+    <string name="one_hundred_and_fifty_four_days">154天</string>
+    <string name="one_all_the_purchase">1万起购</string>
+    <string name="forty_nine_sell_like_hot_cakes">49%热销</string>
+    <string name="six_hundred_and_sixty_five">河津农商行 隆利丰第665期人民币理财产品</string>
+    <string name="ninety_one_days">91天</string>
+    <string name="nine_sell_like_hot_cakes">9%热销</string>
+    <string name="for_your_selection">为你精选</string>
+</resources>
